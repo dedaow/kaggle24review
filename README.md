@@ -1,5 +1,5 @@
 # kaggle24review
-VSB Power Line Fault Detection/n-----------------------------------------------------1
+VSB Power Line Fault Detection\n-----------------------------------------------------1
 Titanic - Machine Learning from Disaster-------------------------------------------2
 CIFAR-10 - Object Recognition in Images--------------------------------------------3
 
