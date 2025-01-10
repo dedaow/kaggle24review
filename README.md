@@ -1,13 +1,13 @@
 # 项目列表
 
-|              projects                       | 排名 |
+|              projects                       | 序号 |
 | --------------------------------------------- | ---- |
 | **VSB Power Line Fault Detection**           | 1    |
 | **Titanic - Machine Learning from Disaster** | 2    |
 | **CIFAR-10 - Object Recognition in Images**  | 3    |
 
 ## Season 4 Episodes
-|          playground                        | 排名 |
+|          playground                        | 序号|
 | --------------------------------------------- | ---- |
 | **Season 4, Episode 9: Regression of Used Car Prices** | 1    |
 | **Season 4, Episode 10: Loan Approval Prediction** | 2    |
